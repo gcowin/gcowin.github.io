@@ -6,10 +6,10 @@
 name: Greg Cowin
 
 # Short bio or description (displayed in the header)
-description: Consultant
+description: Developer
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://gcowin.github.io/Greg-Cowin.jpg
+avatar: https://gcowin.github.io/images/Greg-Cowin.jpg
 #
 # Flags below are optionaloptional
 #
@@ -22,7 +22,7 @@ footer-links:
   flickr:
   github: gcowin
   instagram:
-  linkedin:
+  linkedin: gregcowin
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: gcowin
