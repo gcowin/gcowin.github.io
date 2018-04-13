@@ -14,4 +14,4 @@ I started a medium publication [function of disruption](https://www.medium.com/f
 I get most of my work done in a [deep work lab](https://bit.ly/DeepWorkLab). 
 ### Contact me
 
-[gcowin@github.com](mailto:gcowin@github.com)
+[gcowin@github.com](mailto:gcowin@gmail.com)
