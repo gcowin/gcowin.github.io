@@ -1,9 +1,11 @@
 GDPR (General Data Privacy Regulation)
 
+The essence: don't be sneaky.
+
 Personal privacy
 Individuals have the right to:
-    (Done) Access their personal data
-    (Done) Correct errors in their personal data
+    (Done?) Access their personal data
+    (Done?) Correct errors in their personal data
     (Feature) Erase their personal data
     (Feature) Object to processing of their personal data
     (Feature) Export personal data
