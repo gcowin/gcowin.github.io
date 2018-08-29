@@ -1,0 +1,41 @@
+DIGITAL Transformation
+
+What is digital transformation?
+    Digital transformation (DX) is the change associated with the application of digital technology in all aspects of human society.    
+
+    In the software industry, digital transformation has been a part of it from the beginning.
+
+    Alot of transformations lead to disruptions or digital disruptions. This class of transformations could be what most people think of digital transformation.
+
+    Tar pit of accidental complexity
+
+    Disruptor: Netfolio
+    Enabling: mes 24x7
+    Get Control: servers under desks; massive downtimes
+    Going to the cloud
+
+What are some great tools?
+    Separate problem space from solution space (early in proj)
+    Determine market product fit
+    Lean
+    Agile
+    Focus on the work
+    Functional programming
+    DevOps
+    Experimentation
+    Better decision making: fear and greed
+    Diversity
+    Mindset
+
+Avoid
+    Dogma, biases,
+    Ego: it is not your amigo
+    Best practices
+    Large teams
+    Too much process  
+    Over engineering
+
+
+
+
+

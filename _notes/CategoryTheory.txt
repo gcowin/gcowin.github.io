@@ -1,0 +1,57 @@
+MONADS 
+In functional programming, a monad is a design pattern that defines how functions, actions, inputs, and outputs can be used together to build generic types.
+
+WHY?
+Monads help us with with the case where you fall off the arrow. You make the fall off the arrow explicit.
+
+Exceptions is one way.
+
+Monads are especially useful for modeling calculations which are difficult to capture sequentially. 
+
+Multithreaded code, for example, is notoriously resistant to efforts to write in an imperative style; however it becomes remarkably concise and easy to write in monadic style.
+
+
+Kinds of monads: update monads (aka, I/O Monad), optional monads, additive monads (aka, list monad)
+
+The list type is an additive monad, with nil as the monadic zero and append as monadic sum. 
+
+Monads allow a programming style where programs are written by putting together highly composable parts, combining in flexible ways the possible actions that can work on a particular type of data. 
+
+WHERE DOES IT COME FROM?
+Category Theory 
+Category theory is a theory about composition and mapping 
+
+Formal Representation
+Basically, monads are just a typeclass and two fundamental operations associated. Think of a generic interface with two abstract methods. These operations have the following syntax:
+    Return: 'a -> M<'a>
+    Bind: M<'a> -> ('a -> M<'b>) -> M<'b>
+
+Forbidden words:
+These words include: “endofunctor”, “anamorphism”, “existential quantification”, “beta reduction”, “category theory”, “final coalgebra”, “Kleisli arrows”, “Curry–Howard correspondence” and worst of all, the five letter word beginning with “m”.
+
+
+Notes
+A monad is a type with a bind function and a toMonad function. The bind function goes mechanically from monad to monad without explicitly unveiling a monad's pertinent value.
+
+Monads 
+f: a -> Ma 
+
+Linq
+f: a -> IEnumerable<a>
+
+Bind: .SelectMany()
+
+        (IEnumerable)
+
+
+Binding .SelectMany()
+
+Monadic operators in Linq
+.Where (filter)
+.Select (map)
+.Aggregate (fold, reduce)
+.SelectMany (bind)
+.OrderBy
+.GroupBy
+
+Suffices all querys for json, xml, data

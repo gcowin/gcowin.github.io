@@ -1,0 +1,19 @@
+Visual Studio Code Notes
+
+Favorites
+Ctrl+Shift+P Show All Commands workbench.action.showCommands
+Ctrl+T Show All Symbols workbench.action.showAllSymbols
+
+Navigating thru code history
+Alt+->
+Alt+<-
+
+Default
+{ "key": "ctrl+left", "command": "workbench.action.navigateBack" },
+{ "key": "ctrl+right", "command": "workbench.action.navigateForward" }
+
+
+https://marketplace.visualstudio.com/items?itemName=s-nlf-fh.glassit
+
+tsql
+https://marketplace.visualstudio.com/items?itemName=ms-mssql.mssql
