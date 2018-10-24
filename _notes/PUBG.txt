@@ -1,11 +1,18 @@
 PUBG Notes
 ----------
 
+Strategies
+-----------
+Use shotgun in doors
+
 Rules
 -----
-
 Walls can’t be penetrated by bullets in PUBG, but doors can. So if you’re approaching a door, stand to the side to open it. 
 
+Tips
+----
+Hold Y to store weapon
+Double push left joystick to run 
 
 PUBG Weapons Guide
 ------------------
