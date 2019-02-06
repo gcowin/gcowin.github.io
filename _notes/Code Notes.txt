@@ -1,4 +1,5 @@
 Visual Studio Code Notes
+------------------------
 
 Favorites
 Ctrl+Shift+P Show All Commands workbench.action.showCommands
@@ -17,3 +18,9 @@ https://marketplace.visualstudio.com/items?itemName=s-nlf-fh.glassit
 
 tsql
 https://marketplace.visualstudio.com/items?itemName=ms-mssql.mssql
+
+
+    "[scala]": {
+        "editor.insertSpaces": false,
+        "editor.tabSize": 2
+      }
