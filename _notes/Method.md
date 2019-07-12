@@ -1,3 +1,5 @@
+
+
 Scientific Method Steps
 -----------------------
 The ‘scientific method’ merely refers to a broad framework for studying and learning more about the world around us in a scientific manner. It is not so much a series of absolute, unchangeable steps as a guideline to the method that must be used when trying to reach a scientifically acceptable theory about a subject matter. Therefore, it is not possible to provide a finite number of steps or an exact procedure for following the scientific method. However, the scientific method steps detailed below describe the main steps that scientists commonly take when conducting a scientific inquiry.
