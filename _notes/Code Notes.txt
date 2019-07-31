@@ -1,6 +1,32 @@
 Visual Studio Code Notes
 ------------------------
 
+Keyboard Shortcuts
+------------------
+CTRL+K,CTRL+S: keyboard shortcuts
+
+CTRL+\ side-by-side editing
+CTRL+1,CTRL+2,...: switch between editros
+CTRL+SHIFT+E: move to explorer window
+ALT+LEFT: navigate left
+ALT+RIGHT: navigate right
+ALT: enables fast scrolling
+CTRL/CMD: multi-cursor editing
+ALT+Click+Mouse: multi-cursor selecting
+CTRL+SHIFT+V: markdown preview
+CTRL+K,V: markdown side-by-side
+CTRL+SPACE: intellisense
+CTRL+SHIFT+P: command pallete 
+CTRL+click: go to definition
+F2: rename symbol 
+CTRL+L: select current line
+CTRL+P: quickly open file
+
+Shift + Alt + F: format code
+
+CTRL+K, W: close editor group
+CTRL+K, CTRL+W: close all editor groups
+
 Favorites
 Ctrl+Shift+P Show All Commands workbench.action.showCommands
 Ctrl+T Show All Symbols workbench.action.showAllSymbols
@@ -21,7 +47,7 @@ https://marketplace.visualstudio.com/items?itemName=ms-mssql.mssql
 
 
     "[scala]": {
-        "editor.insertSpaces": false,
+        "editor.insertSpaces": true,
         "editor.tabSize": 2
       }
 

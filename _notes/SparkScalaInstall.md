@@ -8,11 +8,13 @@ My notes on how to set up Spark/Scala environment. This uses dotty scala 3.0 whi
 Spark:  spark-2.4.3
 Java:   openjdk-8-jdk
         Later versions could be issue for cansandra
+        C:\Program Files\AdoptOpenJDK\jdk-8.0.212.04-hotspot\bin;
 Scala:  dotty-0.14.0-RC1
         Must be > 0.13.0-RC1 (1st 3.0 version to support spark)
 SBT:    sbt-1.2.8
 Cassandra: 
 VSCode: 
+
 
 **Spark Installation**
 Step 1: Download Spark
