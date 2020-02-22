@@ -7,9 +7,11 @@ CTRL+K,CTRL+S: keyboard shortcuts
 
 CTRL+\ side-by-side editing
 CTRL+1,CTRL+2,...: switch between editros
+
 CTRL+SHIFT+E: move to explorer window
-ALT+LEFT: navigate left
-ALT+RIGHT: navigate right
+
+ALT+LEFT: navigate left - navigate editors
+ALT+RIGHT: navigate right - navigating editors
 ALT: enables fast scrolling
 CTRL/CMD: multi-cursor editing
 ALT+Click+Mouse: multi-cursor selecting
@@ -34,6 +36,9 @@ Ctrl+T Show All Symbols workbench.action.showAllSymbols
 Navigating thru code history
 Alt+->
 Alt+<-
+
+Ctrl+Shift+D: duplicate line
+Alt+arrow-up: move line up
 
 Default
 { "key": "ctrl+left", "command": "workbench.action.navigateBack" },

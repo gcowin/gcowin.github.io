@@ -14,7 +14,6 @@ I get most of my work done in a [deep work lab](https://bit.ly/DeepWorkLab).
 
 [function of disruption](https://www.medium.com/fnDisruption) 
 
-[pursuit of great design](http://wwww.pursuitofgreatdesign.com)
 
 ### Contact me
 [about.me/gc](https://about.me/gc)

@@ -1,5 +1,21 @@
 Podcast Ideas
 -------------
+
+Idea: don't refer to the podcast as podcast -- ever
+
+Sessions about software development hosted by greg cowin with a secret developer. To help not only survive but thrive.
+Session 000: About
+Session 001: Dogma and Mindset
+Session 002:  
+
+What's in it for you?
+Tools to help you cope and survive and reduce frustration. But not just to survive and thrive.
+
+Why?
+Start with a question.
+
+
+
 Podcast Journal
 https://archive.org/
 Could get presidential quotes here to make funny transitions for podcast; although probably a lot of work, but could be interesting from sound perspective
@@ -10,19 +26,29 @@ Phrases spliced
 Blip/Static
 Dramamatic music
 
-Thanks for the presidential intro and endorsements
+  
+
+
+Idea: 2 G's on Software Idea
+----------------------
+Titles:
+
+    Think4.Me with software: 2 
+    Think4.Me on software: interview
+    Developer Unexpected
 
 Title
+
 About
 What's in it for them?
 Why it's important?
 What's coming?
 Why am I?
 Knowledge Illusion
-+Provide refs/links stand on shoulders; 
++ Provide refs/links stand on shoulders; 
 Rare gem
 
-Commit to 10 Episodes (solo), but want to get more of a conversation on topics/tradeoffs etc. So looking for other developers to break thru the illusion. Don't rule yourself out if you don't have much experience or whatever the reason. If you feel you have a good question, observation, or hypothesis or counter argument, let me know. You don't have to agree with me to be a member of the same tribe.
+Commit to 10 Episodes (solo), but want to get more of a conversation on topics/tradeoffs etc. So looking for other developers to break thru the illusion. Don't rule yourself out if you don't have much experience or whatever the reason. If you feel you have a good question, observation, or hypothesis or counter argument, let me know.  
 
 Upcoming
 
@@ -52,7 +78,7 @@ Storyboard: 20 minutes
 
     My views
 
-    Close
+    Closec
 
 Podcast Template
     Opening 
@@ -73,6 +99,9 @@ Developer in flow
 hosted by Greg Cowin
 
 Podcast Names
+
+    Think4.Me: Looking forward to development
+
     fnDisruption
     Development Q
     Develop in flow
@@ -114,7 +143,9 @@ Podcast Names
     Developer Unexpected
     Development Tear Down
     XYZ Development
+
     Altered Development
+
     Developer Mode
     Developer Files
     Developer Fun
@@ -125,8 +156,10 @@ Podcast Names
     Developer Next
     Developer Grit
     Pain free development
+
     Develop Different
         Reduce pain and increase fun in software development
+
     It's all development
     The Dev Project
     Project Dev
@@ -147,6 +180,16 @@ Podomatic
 Libsyn
 Amazon S3
 
+
+Presentation Templates
+----------------------
+Question
+    Q: There has to be a better way?
+    A: Idea
+Hypothesis/Data
+Story/Example
+Recap
+
 Listing on Podcast Directories
 -----------------------------
 Sticher, Blubrry, Miro
@@ -160,6 +203,8 @@ Podcast epsisodes: Season 1 (10 epispodes)
     prepare developers for disruption
     help cope with radical changes coming in our industry
     help you not turn out to be a frustrated developer
+    go beyond the dogma
+    blind spots-
 
     my 25+ years of experience developing software
     Why am I doing it? 

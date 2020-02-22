@@ -1,3 +1,5 @@
+From presentation: 
+
 Do:
 
 Whenever you are referring to an exact moment in time, persist the time according to a unified standard that is not affected by daylight savings. (GMT and UTC are equivalent with this regard, but it is preferred to use the term UTC. Notice that UTC is also known as Zulu or Z time.)
