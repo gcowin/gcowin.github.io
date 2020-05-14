@@ -39,6 +39,8 @@ Podcast Template
 
         Before I introduce our guest, let me give a bit of my background since i won't be able to reveal much about our secret guest.
 
+        I've been mentoring X in the area of software development. He's making a career change to software development and data science. Later we will reveal his real identity. He's working on an app that he will hopefully launch as well.
+
         Our secret guest has really transformed. He really has developed super powers. He's able to get into a state of flow and solve problems effectively and minimally.
 
         Greg: Now you haven't always been a software developer. 

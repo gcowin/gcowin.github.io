@@ -6,7 +6,7 @@ Q: What is Category Theory?
 
 + Unification theory for mathematics
 + Inspired by the fact that Einstein's theory of relativity was just so different than other mathematical models
-+ 19
++ 1940s
 Category theory was invented in the early 1940s by Samuel Eilenberg and Saunders Mac Lane. It was specifically designed to bridge what may appear to be two quite different fields: topology and algebra; https://www.ams.org/journals/tran/1945-058-00/S0002-9947-1945-0013131-6/
 
 Tools
@@ -19,6 +19,8 @@ Composition
 
 Identity
 + Is identity and isomorphism the same thing?
+
+ an isomorphism is a mapping between two structures of the same type that can be reversed by an inverse mapping
 
 Category theory is about Composition and Identity
 
