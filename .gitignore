@@ -12,3 +12,6 @@ build.sbt
 project/plugins.sbt
 project/build.properties
 .ionide/symbolCache.db
+
+.fake
+.ionide

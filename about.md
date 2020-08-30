@@ -14,8 +14,7 @@ I get most of my work done in a [deep work lab](https://bit.ly/DeepWorkLab).
 
 [function of disruption](https://www.medium.com/fnDisruption) 
 
+Podcast [Dev Deconstructed]
 
 ### Contact me
 [about.me/gc](https://about.me/gc)
-
-[gcowin@github.com](mailto:gcowin@gmail.com)

@@ -2,14 +2,13 @@ Notes on D.I. (dependency injection)
 ------------------------------------
 Q: Why not embrace dependency injection?
 A: 
-
-    It's misdirected and ironic, because it injects unneccesary dependencies. Instead of depending on a simple signature (f: a -> b), now you depend on everything in the interface and those dependencies. A way to scope, but as it turns out -- global. Needed due more to the inability to do effective composition, than to reduce/improve dependencies. 
+    It's misdirected and ironic, because it injects unnecessary dependencies. Instead of depending on a simple signature (f: a -> b), now you depend on everything in the interface and those dependencies. A way to scope, but as it turns out -- global. Needed due more to the inability to do effective composition, than to reduce/improve dependencies. It's a legacy (mainstream) way of dealing with computation in a context. D.I. provides a global mechanism for computing in a context. Context is a tuff problem. D.I. is just trying to deal with separating signature from implementation.
 
     If your goal is reduced dependencies then D.I. is probably not the answer. From a dependency perspective, you can't get more minimal than f: a -> b.
     
     on a function signature as opposed to a whole interface and it's dependencies.  O.O. uses classes/objects to compose the app. Functional uses functions to compose the app. 
 
-    By it's very name.
+    By it's very name. Yes, I'd like a bunch of dependencies please.
 
     This is a bit strong.
 
@@ -32,6 +31,7 @@ Issues
 - needless dependencies
 - big constructors
 - ironic
+- can introduce hidden variables  
 
 Alternatives
 ------------
@@ -48,7 +48,7 @@ Factory
 Lambda's 
 
 ServiceLocator
-- Glorified static factory
+- Glorified static factory; introduces hidden variables
 
 Functional approaches you generally pass hof rather than a dependency to use later.
 
