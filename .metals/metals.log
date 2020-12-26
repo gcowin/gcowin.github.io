@@ -25,3 +25,7 @@ INFO: Unsupported notification method: $/setTraceNotification
 2020.11.05 15:08:25 INFO  skipping build import with status 'Requested'
 2020.11.23 13:34:18 INFO  Started: Metals version 0.9.5 in workspace 'C:\repos\github\gcowin.github.io' for client vscode.
 2020.11.23 13:34:20 INFO  time: initialize in 2.08s
+2020.12.26 09:12:04 INFO  Started: Metals version 0.9.8 in workspace 'C:\repos\github\gcowin.github.io' for client vscode.
+2020.12.26 09:12:07 INFO  time: initialize in 2.1s
+2020.12.26 09:12:14 WARN  Build server is not auto-connectable.
+2020.12.26 09:12:15 INFO  skipping build import with status 'Requested'
