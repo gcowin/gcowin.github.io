@@ -78,7 +78,7 @@ Storyboard: 20 minutes
 
     My views
 
-    Closec
+    Close
 
 Podcast Template
     Opening 
@@ -226,7 +226,7 @@ Podcast epsisodes: Season 1 (10 epispodes)
 
 + Why is software delivery so painful?
     + 85% wasted tasks
-    + Increased complexity; it's so hard somtimes to just collect the dots; let alone connect them; but i do like that last part.
+    + Increased complexity; it's so hard sometimes to just collect the dots; let alone connect them; but i do like that last part.
     + Poor operating models
     + Egos
     + Lack of focus

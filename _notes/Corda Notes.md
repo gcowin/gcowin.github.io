@@ -130,7 +130,7 @@ Paired or one sided
 Paired: initiator and receiver
 
 check-points
-while waiting for responses from peers (the flows are "asleep"). State is susnpended and serialized to storage.
+while waiting for responses from peers (the flows are "asleep"). State is suspended and serialized to storage.
 
 Code never blocks
 

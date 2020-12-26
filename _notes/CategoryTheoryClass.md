@@ -12,7 +12,7 @@ Category theory was invented in the early 1940s by Samuel Eilenberg and Saunders
 Tools
 -----
 Abstraction
-+ Get rid of unneccesary details
++ Get rid of unnecessary details
 + Things that used to be different are now identical; replacing an eight ball
 
 Composition

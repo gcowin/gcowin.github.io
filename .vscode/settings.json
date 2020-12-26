@@ -1,3 +1,6 @@
 {
-    "metals.javaHome": "C:\\Program Files\\AdoptOpenJDK\\jdk-8.0.212.04-hotspot\\"
+    "metals.javaHome": "C:\\Program Files\\AdoptOpenJDK\\jdk-8.0.212.04-hotspot\\",
+    "files.watcherExclude": {
+        "**/target": true
+    }
 }

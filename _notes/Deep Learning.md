@@ -161,12 +161,12 @@ A:
 2. forward prop/fold activation function
 3. back prop
 
-Q: How to map to input values between [-1,1]?
+Q: How to map to input values between [0,1]?
 A: Sometimes it maps and distributes well such as age. Could map to binary but not efficient.  
 
 Other techniques:
 Data normalization: 
-Principal compoponent analysis
+Principal component analysis
 
     Takes higher dimensional data and reduces it.
     m= measurements
